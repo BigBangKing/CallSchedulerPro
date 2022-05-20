@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Call Schedular Pro
 
-You can use the [editor on GitHub](https://github.com/BigBangKing/CallSchedulerPro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Call Scheduler Pro is an application that is targeted towards business and individuals requring call management. One can schedule calls and process 'call pool' with this app. Also this app features much advanced features that most of the call scheduling apps lack such as pause and break feature.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# privacy policy:
 
-### Markdown
+- We do not collect user data other than app usage via firebase analytics and crashlytics SDK.
+- For firebase terms and services you can visit https://firebase.google.com/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BigBangKing/CallSchedulerPro/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Terms and oconditions:
+- We do not provide guaranteed execution of all schedules. It is dependent on device and its capability.
+- Do not use it for any kind of emergency situations.
+- We do not provide guarantee of execution on all kind of devices available.
