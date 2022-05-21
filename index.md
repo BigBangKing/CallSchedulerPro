@@ -9,6 +9,7 @@ Call Scheduler Pro is an application that is targeted towards business and indiv
 
 
 # Terms and oconditions:
-- We do not provide guaranteed execution of all schedules. It is dependent on device and its capability.
+- We do not provide guaranteed execution of all schedules. It is dependent on device and its capability. We tested with devices available to us.
 - Do not use it for any kind of emergency situations.
-- We do not provide guarantee of execution on all kind of devices available.
+
+# For queries and suggestions contact: bigbangsoftware@yahoo.com
