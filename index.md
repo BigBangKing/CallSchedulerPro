@@ -8,7 +8,7 @@ Call Scheduler Pro is an application that is targeted towards business and indiv
 - For firebase terms and services you can visit https://firebase.google.com/
 
 
-# Terms and oconditions:
+# Terms and conditions:
 - We do not provide guaranteed execution of all schedules. It is dependent on device and its capability. We tested with devices available to us.
 - Do not use it for any kind of emergency situations.
 
